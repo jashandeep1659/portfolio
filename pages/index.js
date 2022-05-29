@@ -23,7 +23,7 @@ const Home = () => {
                     <div>
                         <Link href="/contact">
                             <a>
-                                <button>Contact Now</button>
+                                <button>Contact Now...</button>
                             </a>
                         </Link>
                     </div>
