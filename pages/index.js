@@ -14,7 +14,7 @@ const Home = () => {
             <section id="banner1">
                 <div className="text">
                     <h1>
-                        Deep <br /> Developers
+                        Jashandeep <br /> Singh
                     </h1>
                     <p>
                         I’m a software engineer specializing in building
@@ -23,7 +23,7 @@ const Home = () => {
                     <div>
                         <Link href="/contact">
                             <a>
-                                <button>Contact Now...</button>
+                                <button>Contact Now</button>
                             </a>
                         </Link>
                     </div>

@@ -7,7 +7,7 @@ const Navbar = () => {
             <div className="title">
                 <Link href="/">
                     <a>
-                        <h1>Deep Developers</h1>
+                        <h1>Jashandeep Singh </h1>
                     </a>
                 </Link>
             </div>
